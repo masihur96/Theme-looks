@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114479062184",
+    "project_id": "themelooks-fecfc",
+    "storage_bucket": "themelooks-fecfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114479062184:android:97826dc5bee06d3805369d",
+        "android_client_info": {
+          "package_name": "com.example.theme_looks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114479062184-8od2ct9oo7q4qltk1qkrfn9cjblmi41s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ7p2vUh9m6jFmGSy1-b-MRlON0KZBy74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114479062184-8od2ct9oo7q4qltk1qkrfn9cjblmi41s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
